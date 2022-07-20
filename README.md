@@ -17,7 +17,7 @@ Libraries used for the implementation:
 ## Implementation
 
 	This is an idea of implementing the galaxy using circular doubly linked lists where the galaxy is a huge linked list and the planets are its nodes. 
-In the same spirit each planet has its own lists of shields where every shield is a node of that specific linked list.
+	In the same spirit each planet has its own lists of shields where every shield is a node of that specific linked list.
 
 ### Structure
 

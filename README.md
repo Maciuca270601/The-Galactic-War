@@ -20,7 +20,7 @@ Libraries used for the implementation:
 	and the planets are its nodes. 
 	In the same spirit each planet has its own lists of shields where every shield is a node of that specific linked list.
 
-### Structure
+## Structure
 
 	Avoiding refurbished amounts of code blocks has been an 
 	important goal of the project so the structures that are being used are
@@ -54,7 +54,7 @@ Libraries used for the implementation:
 	When the wanted node is being reached, the head will just point to it.
 	Upgrade just modifies the value stored in a shield.
 	
-#### Difficulties
+## Difficulties
 	
 	For the complex tests, I had a problem with the collide function.
 	
